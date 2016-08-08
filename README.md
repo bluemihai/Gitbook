@@ -25,3 +25,6 @@ Each Gitbook includes:
 - [ ] A chapter on non-technical aspects of programming (project management, group dynamics, productivity, workflow)
 - [ ] At least five further chapters on specific programming languages or practices you have learned
  
+AGREED?
+
+Mihai - Monday 12:27pm
