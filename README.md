@@ -15,13 +15,10 @@ General:
  
 Each Gitbook includes:
 - [ ] Some shared structure, but the content is different to reflect individual thought
-- [ ] Some discussion/review of the resources Shereef posted (in Resources.md)
 - [ ] Your own list (or better yet, mindmap) of programming competencies
 - [ ] Review of your last four projects and which of those competencies you learned
 - [ ] Review a sample of your code from each of your past projects, dissected and re-written at higher quality. 
 - [ ] An account of tangible skills you can perform without help at the beginning of the week, and again at the end.
-- [ ] A chapter on how to Google properly when learning
-- [ ] A chapter on proper Github workflow and Github competencies
 - [ ] A chapter on non-technical aspects of programming (project management, group dynamics, productivity, workflow)
 - [ ] At least five further chapters on specific programming languages or practices you have learned
  
