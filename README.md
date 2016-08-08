@@ -11,6 +11,7 @@ SPECIFICATIONS
 General:
 - [ ] Each group member has their own "Learning To Code" gitbook
 - [ ] Using your deeper understanding of code, push one new commit to each of your past projects.
+- [ ] Each group member gives a Ted Talk presenting something from your Gitbook.
  
 Each Gitbook includes:
 - [ ] Some shared structure, but the content is different to reflect individual thought
