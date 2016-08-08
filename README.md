@@ -10,6 +10,7 @@ SPECIFICATIONS
 
   General:
  -[] Each group member has their own "Learning To Code" gitbook
+ 
  -[] Using your deeper understanding of code, push one new commit to each of your past projects.
  
   Each Gitbook includes:
